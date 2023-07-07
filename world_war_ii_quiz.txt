@@ -1,0 +1,5 @@
+"When did World War II begin?" 1939-09-01
+"When did the United States enter World War II?" 1941-12-07
+"When was the D-Day invasion of Normandy?" 1944-06-06
+"When did World War II end in Europe?" 1945-05-08
+"When did World War II end in the Pacific?" 1945-09-02
